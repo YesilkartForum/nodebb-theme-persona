@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-persona-yesilkartforum",
   "version": "11.3.10",
   "nbbpm": {
     "compatibility": "^1.18.0"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "Modeified NodeBB Persona theme for YesilkartForum",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-persona"
+    "url": "https://github.com/YesilkartForum/nodebb-theme-persona-yesilkartforum"
   },
   "scripts": {
     "lint": "eslint ."
