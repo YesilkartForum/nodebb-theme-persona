@@ -1,4 +1,7 @@
 {
     "mobile-menu-side": "Mobil menünün bulunduğu tarafı değiştir",
     "post-quick-reply": "Hızlı Cevap Gönder"
+    "help.location": "Yaşadığınız Şehir veya Eyalet ismini giriniz.",
+    "location_placeholder": "Konum Bilginizi Girin",
+    "location": "Konum"
 } 
