@@ -22,6 +22,14 @@
 						</div>
 					</div>
 					<div class="form-group">
+						<label for="inputlocation" class="col-lg-4 control-label">[[persona:location]]</label>
+						<div class="col-lg-8">
+							<input class="form-control" type="text" placeholder="[[persona:location_placeholder]]" name="location" id="inputlocation" />
+							<span class="register-feedback" id="inputlocation"></span>
+							<span class="help-block">[[persona:help.location]]</span>
+						</div>
+					</div>
+					<div class="form-group">
 						<label for="password" class="col-lg-4 control-label">[[register:password]]</label>
 						<div class="col-lg-8">
 							<input class="form-control" type="password" placeholder="[[register:password_placeholder]]" name="password" id="password" />
