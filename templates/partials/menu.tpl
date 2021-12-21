@@ -109,7 +109,7 @@
 									<i class="fa fa-fw fa-gear"></i> <span>[[user:settings]]</span>
 								</a>
 							</li>
-							{{{ if showModMenu }}}
+							<!-- IF showModMenu -->
 							<li role="presentation" class="divider"></li>
 							<li class="dropdown-header">[[pages:moderator-tools]]</li>
 							<li>
@@ -127,16 +127,7 @@
 									<i class="fa fa-fw fa-ban"></i> <span>[[pages:ip-blacklist]]</span>
 								</a>
 							</li>
-							{{{ else }}}
-							{{{ if postQueueEnabled }}}
-							<li>
-								<a href="{relative_path}/post-queue">
-									<i class="fa fa-fw fa-list-alt"></i> <span>[[pages:post-queue]]</span>
-								</a>
-							</li>
-							{{{ end }}}
-							{{{ end }}}
-
+							<!-- ENDIF showModMenu -->
 							<li role="presentation" class="divider"></li>
 							<li component="user/logout">
 								<form method="post" action="{relative_path}/logout">
