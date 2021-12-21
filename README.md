@@ -1,7 +1,7 @@
 Modified NodeBB Persona theme for Yesilkart Forum
 ==========================================================
 
-Based on Persona Theme version 11.3.10
+Based on Persona Theme version 11.3.8
 
 ## Modifications:
 
